@@ -1,1 +1,1 @@
-ALTER TABLE Test_Farzad ADD address varchar(255)
+ALTER TABLE Test_Farzad ADD customer_id varchar(255)
