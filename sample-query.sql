@@ -1,0 +1,1 @@
+ALTER TABLE Test_Farzad ADD address varchar(255)
